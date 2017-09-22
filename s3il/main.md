@@ -6,4 +6,6 @@ Une licorne arpentait l'arc-en-ciel.
 
 J'ai obtenu une légendaire dorée.
 
-J'ai créé une branche
+J'ai créé une branche.
+
+Correction syntaxe
